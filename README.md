@@ -1,7 +1,7 @@
 ## Updated Portfolio
 
-#### https://github.com/joolyen/Weather-Dashboard
-#### https://joolyen.github.io/Weather-Dashboard/
+#### https://github.com/joolyen/Updated-Portfolio
+#### https://joolyen.github.io/Updated-Portfolio/
 
 ## Description
 A professional portfolio page that links to key network information.
